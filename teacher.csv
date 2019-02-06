@@ -1,0 +1,49 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "first name,last name,gender,final grade,final exam grade,quiz grade average,problem set average,bank project grade,assignment average,fun,reflection\n",
+    "Kanye,West,M,88,87,82,88,98,92,3,Scoop de woop de poop. Woop diddy scoop poop.\n",
+    "Grape,Jelly,M,76,56,61,76,90,84,1,I hate this class. Which is why I never show up. Have a grape day.\n",
+    "Strawberry,Jam,F,98,98,99,95,95,100,2,\"You jammed a lot of material in this semester, but when I straw my grade and thought, that is berry good. \"\n",
+    "Raspberry,Icee,F,98,92,95,98,100,99,2,Icee you think I'm pretty clever. \n",
+    "Banana,Milkshake,M,93,94,90,92,98,95,3,I am bananas for comp sci. \n",
+    "Blackberry,Smoothie,T,77,63,66,73,89,87,2,Can't say this was all smoothie sailing for me. I definitely struggled with all of the quizzes.\n",
+    "Lemon,Bar,M,87,78,85,80,93,94,2,\"Barring the final, I enjoyed the vast majority of this class. Please lemon retake the final. \"\n",
+    "Kiwi,Pie,F,82,75,74,80,89,88,2,Pie couldn't have cared less about this class\n",
+    "Orange,Soda,F,97,90,93,98,100,98,3,Orange you glad I found success in this class?\n",
+    "Apple,Strudel,M,87,80,82,84,90,93,3,\"Ich bin ein \"\"Apfel\"\" von Wertschatzung fur diesen Kurs\"\n",
+    "Huckleberry,Finn,M,97,99,97,100,98,95,2,\"Jim said that bees won't sting idiots, but I didn't believe that, because I tried them lots of times myself and they wouldn't sting me.\"\n",
+    "Tomato,Ketchup,F,90,86,84,90,95,93,3,Comp sci is my favorite class. I love figuring out a difficult problem. It makes me shiver from my head tomatoes.\n",
+    "Water,Melon,T,93,89,93,92,90,94,3,\"I trust your evaluation, so I think a self-reflection is not necessary. Water you think about my progress this year?\"\n",
+    "Pear,Cider,M,88,85,83,89,89,90,2,\"I really enjoyed the bank project this year, you peared me with really great fruits. I learned a lot.\"\n",
+    "Passion,Fruit,F,98,100,100,99,100,95,1,\"I am extremely passionate about computer science, so I really think this class was overall an extremely satisfactory experience. I've already taken a couple of comp sci courses so none of the material was new to me and I felt that all of the assignments, problem sets, and quizzes were extremely easy.\""
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
